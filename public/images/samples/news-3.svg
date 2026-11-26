@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#27272a"/>
+  <rect x="100" y="120" width="1000" height="420" fill="#18181b" stroke="#e4e4e7" stroke-width="2"/>
+  <text x="600" y="305" font-family="Arial, sans-serif" font-size="46" font-weight="bold" fill="#fafafa" text-anchor="middle">إعلانات إدارية ووثائق رسمية</text>
+  <text x="600" y="370" font-family="Arial, sans-serif" font-size="26" fill="#fbbf24" text-anchor="middle">بلاغات الإدارة والمصلحة المالية</text>
+</svg>

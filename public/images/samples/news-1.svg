@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#1e293b"/>
+  <rect x="0" y="585" width="1200" height="90" fill="#0f172a"/>
+  <rect x="920" y="585" width="280" height="90" fill="#fa9000"/>
+  <g fill="#334155">
+    <rect x="120" y="140" width="960" height="360" rx="4"/>
+  </g>
+  <text x="600" y="310" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#f8fafc" text-anchor="middle">أخبار ملحقة باتنة لمحو الأمية</text>
+  <text x="600" y="375" font-family="Arial, sans-serif" font-size="26" fill="#cbd5e1" text-anchor="middle">بوابة المتابعة الإخبارية والتربوية</text>
+</svg>
